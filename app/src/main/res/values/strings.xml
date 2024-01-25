@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ComboChronicle</string>
     <string name="title_buildsrc">buildSrc</string>
+    <string name="title_domain">domain</string>
 </resources>
