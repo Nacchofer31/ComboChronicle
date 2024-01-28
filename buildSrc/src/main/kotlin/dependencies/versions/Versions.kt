@@ -81,7 +81,7 @@ object  Versions {
     }
 
     object Test {
-        const val mockk = "1.13.4"
+        const val mockk = "1.13.9"
         const val junit = "4.13.2"
         const val core_arch_test = "2.2.0"
         const val fragment_test = Versions.Android.Ktx.fragments
