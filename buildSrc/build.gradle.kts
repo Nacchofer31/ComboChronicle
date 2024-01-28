@@ -26,7 +26,7 @@ sourceSets.getByName("main") {
  * https://issuetracker.google.com/issues/247906487
  */
 dependencies {
-    implementation("com.android.tools.build:gradle:7.4.0")
+    implementation("com.android.tools.build:gradle:7.4.2")
     implementation("com.android.tools.build:gradle-api:7.4.0")
     implementation("org.jlleitschuh.gradle:ktlint-gradle:11.6.1")
     implementation("com.diffplug.spotless:spotless-plugin-gradle:6.19.0")
