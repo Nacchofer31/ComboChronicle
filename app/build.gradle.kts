@@ -25,7 +25,7 @@ android {
 
 dependencies {
     //implementation(project(":data"))
-    //implementation(project(":features"))
+    implementation(project(":feature"))
     androidBase()
     androidKtx()
     androidLifecycle(true)
@@ -39,6 +39,6 @@ dependencies {
     implementation(Deps.Libraries.timberDep)
 
     androidTest()
-    //androidTestImplementation(project(":domain"))
+    androidTestImplementation(project(":domain"))
 
 }
