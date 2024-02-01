@@ -19,7 +19,7 @@ internal fun Project.configureOptionsTest() {
         }
 
         defaultConfig {
-            testInstrumentationRunner = "com.csdsopra.runner.ComboChronicle"
+            testInstrumentationRunner = "com.nacchofer31.runner.ComboChronicle"
          }
     }
 }
