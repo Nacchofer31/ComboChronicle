@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ComboChronicle"
-include(":app",":domain",":feature")
+include(":app",":domain",":feature",":data")
