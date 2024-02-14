@@ -21,7 +21,7 @@ object  Versions {
 
     object Hilt {
         const val versionHilt = "2.44.2"
-        const val hiltWorkManager = "1.0.0"
+        const val hiltWorkManager = "1.1.0"
     }
 
 
