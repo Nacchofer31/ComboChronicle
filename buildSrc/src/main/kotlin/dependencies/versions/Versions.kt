@@ -29,7 +29,7 @@ object  Versions {
         const val activityCompose = "1.8.2"
         const val compose = "1.3.3"
         const val composeRuntime = "1.5.10"
-        const val constrainLayout = "2.0.4"
+        const val constrainLayout = "2.1.4"
         const val constraintCompose = "1.0.1"
         const val appCompat = "1.6.1"
         const val material = "1.5.0"
