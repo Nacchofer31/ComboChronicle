@@ -45,7 +45,7 @@ object  Versions {
         const val datastorePreference = "1.0.0"
 
         object Ktx {
-            const val core = "1.7.0"
+            const val core = "1.12.0"
             const val fragments = "1.6.2"
             const val activity = "1.8.2"
             const val lifecycle = "2.7.0"
