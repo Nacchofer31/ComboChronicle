@@ -36,7 +36,7 @@ object  Versions {
         const val material3 = "1.0.1"
         const val recycler = "1.2.1"
         const val room = "2.6.1"
-        const val liveData = "2.6.0"
+        const val liveData = "2.7.0"
         const val viewModel = "2.6.0"
         const val viewModelCompose = "2.5.1"
         const val workManager = "2.7.1"
