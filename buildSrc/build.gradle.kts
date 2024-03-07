@@ -29,7 +29,7 @@ dependencies {
     implementation("com.android.tools.build:gradle:7.4.2")
     implementation("com.android.tools.build:gradle-api:7.4.2")
     implementation("org.jlleitschuh.gradle:ktlint-gradle:11.6.1")
-    implementation("com.diffplug.spotless:spotless-plugin-gradle:6.19.0")
+    implementation("com.diffplug.spotless:spotless-plugin-gradle:6.25.0")
     implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.20")
     implementation(gradleApi())
     implementation("com.squareup:javapoet:1.13.0")
