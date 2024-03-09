@@ -33,7 +33,7 @@ object  Versions {
         const val constraintCompose = "1.0.1"
         const val appCompat = "1.6.1"
         const val material = "1.11.0"
-        const val material3 = "1.0.1"
+        const val material3 = "1.2.1"
         const val recycler = "1.3.2"
         const val room = "2.6.1"
         const val liveData = "2.7.0"
