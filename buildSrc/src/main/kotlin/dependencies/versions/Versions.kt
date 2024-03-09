@@ -4,7 +4,7 @@
  */
 object  Versions {
 
-    const val leakCanary = "2.7"
+    const val leakCanary = "2.13"
     const val timber = "4.7.1"
     const val javapoet = "1.13.0"
     const val jsoup = "1.13.1"
