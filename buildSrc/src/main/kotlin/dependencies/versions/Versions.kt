@@ -39,7 +39,7 @@ object  Versions {
         const val liveData = "2.7.0"
         const val viewModel = "2.7.0"
         const val viewModelCompose = "2.7.0"
-        const val workManager = "2.7.1"
+        const val workManager = "2.9.0"
         const val annotationX = "1.7.1"
         const val mediaRouter = "1.3.0"
         const val datastorePreference = "1.0.0"
