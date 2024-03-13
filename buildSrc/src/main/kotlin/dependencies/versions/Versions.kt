@@ -62,7 +62,7 @@ object  Versions {
     }
 
     object Firebase {
-        const val firebaseBoomVersion = "30.2.0"
+        const val firebaseBoomVersion = "30.5.0"
         const val classPathCrashlyticsVersion = "2.9.9"
         const val classPathPerformanceVersion = "1.4.2"
     }
