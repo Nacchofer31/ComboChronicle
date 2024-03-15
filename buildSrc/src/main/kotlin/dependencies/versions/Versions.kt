@@ -73,7 +73,7 @@ object  Versions {
     }
 
     object Images {
-        const val coilComposeVersion = "2.2.2"
+        const val coilComposeVersion = "2.6.0"
         const val glideVersion = "4.16.0"
         const val glideKaptVersion = "4.12.0"
         const val lottieVersion = "5.2.0"
