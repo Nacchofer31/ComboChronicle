@@ -89,7 +89,7 @@ object  Versions {
         const val navigation_test = Versions.Android.JetPack.navigationVersion
         const val espresso= "3.5.1"
         const val coroutineTest = "1.6.4"
-        const val turbine = "0.12.3"
+        const val turbine = "0.13.0"
     }
 
 }
