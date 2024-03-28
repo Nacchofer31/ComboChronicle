@@ -68,7 +68,7 @@ object  Versions {
     }
 
     object Retrofit {
-        const val retrofitVersion = "2.9.0"
+        const val retrofitVersion = "2.11.0"
         const val okHttp3Version = "4.9.1"
     }
 
