@@ -88,7 +88,7 @@ object  Versions {
         const val hilt_test = Versions.Hilt.versionHilt
         const val navigation_test = Versions.Android.JetPack.navigationVersion
         const val espresso= "3.5.1"
-        const val coroutineTest = "1.6.4"
+        const val coroutineTest = "1.8.0"
         const val turbine = "0.13.0"
     }
 
