@@ -28,7 +28,7 @@ object  Versions {
     object Android {
         const val activityCompose = "1.8.2"
         const val compose = "1.6.3"
-        const val composeRuntime = "1.5.10"
+        const val composeRuntime = "1.5.14"
         const val constrainLayout = "2.1.4"
         const val constraintCompose = "1.0.1"
         const val appCompat = "1.6.1"
