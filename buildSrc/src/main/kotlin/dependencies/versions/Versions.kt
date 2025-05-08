@@ -40,7 +40,7 @@ object  Versions {
         const val viewModel = "2.7.0"
         const val viewModelCompose = "2.7.0"
         const val workManager = "2.10.1"
-        const val annotationX = "1.7.1"
+        const val annotationX = "1.9.1"
         const val mediaRouter = "1.3.0"
         const val datastorePreference = "1.0.0"
 
