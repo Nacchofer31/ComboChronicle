@@ -16,7 +16,7 @@ object  Versions {
 
     object Gradle {
         const val tools = "7.3.1"
-        const val googleServicesVersion = "4.4.1"
+        const val googleServicesVersion = "4.4.2"
     }
 
     object Hilt {
