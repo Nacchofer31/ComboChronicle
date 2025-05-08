@@ -53,7 +53,7 @@ object  Versions {
 
         object JetPack {
             const val paging = "3.0.1"
-            const val navigationVersion = "2.7.7"
+            const val navigationVersion = "2.9.0"
         }
 
         object Security {
