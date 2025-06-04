@@ -31,7 +31,7 @@ object  Versions {
         const val composeRuntime = "1.5.14"
         const val constrainLayout = "2.1.4"
         const val constraintCompose = "1.0.1"
-        const val appCompat = "1.6.1"
+        const val appCompat = "1.7.1"
         const val material = "1.11.0"
         const val material3 = "1.2.1"
         const val recycler = "1.3.2"
